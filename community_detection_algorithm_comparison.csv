@@ -1,0 +1,4 @@
+Algorithm,Number of Communities,Modularity,Execution Time (seconds)
+Louvain,15,0.8349,2.29
+Girvan-Newman,4,0.0115,7.11
+Label Propagation,71,0.8175,0.42
